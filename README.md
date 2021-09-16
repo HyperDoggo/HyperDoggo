@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HyperDoggo, but you can just call me Cherry
 - 👀 I’m interested in ...Developing Games with a supportive & caring team 
 - 🌱 I’m currently learning ... C# Programming through Unity 
-- 💞️ I’m looking to collaborate on ... Sonic Refueled 
+- 💞️ I’m looking to collaborate on ... Sonic Refueled (Remake of the 1997 classic 'Sonic R')
 - 📫 How to reach me ... Sonicboy2017@gmail.com
 
 <!---
